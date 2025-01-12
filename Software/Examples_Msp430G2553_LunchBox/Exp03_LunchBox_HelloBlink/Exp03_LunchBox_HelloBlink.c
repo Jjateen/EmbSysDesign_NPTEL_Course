@@ -15,7 +15,7 @@ int main(void)
 
         //P1OUT |= BIT7;
         P1OUT |= 0x80;              //Red LED -> ON
-        for(i = 0; i<10000; i++);   //delay
+        for(i = 0; i<50000; i++);   //delay
 
         //P1OUT &=~ BIT7;
         P1OUT &= ~0x80;             //Red LED -> OFF

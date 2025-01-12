@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Exp03_LunchBox_HelloBlink",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Exp03_LunchBox_HelloBlink",
+                "resourceId": "/Exp03_LunchBox_HelloBlink"
+            },
+            "debuggerSettings": {
+                "targetConfigs/MSP430G2553.ccxml": {
+                    "TI MSP430 USB1/MSP430": {
+                        "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                    }
+                }
+            }
+        }
+    ]
+}
