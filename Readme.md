@@ -35,6 +35,53 @@ The provided resources and examples have been updated to ensure compatibility wi
 
 ---
 
+## Directory Structure
+
+### Root Directory
+
+```
+./
+├── .gitignore
+├── Docs/
+├── Hardware/
+│   └── Design_Files/
+├── LICENSE
+├── Readme.md
+└── Software/
+```
+
+### Docs Directory
+
+```
+./Docs/
+├── Bootloader (BSL) Scripter_user_guide_slau655f.pdf
+├── course-book.pdf
+├── LaunchPad-Based MSP430 UART BSL Interface_slaa535a.pdf
+└── LUNCHBOX_ECOSYSTEM_Final.pdf
+```
+
+### Hardware Directory
+
+```
+./Hardware/
+└── Design_Files/
+    ├── Eagle/
+    ├── images/
+    └── Readme.md
+```
+
+### Software Directory
+
+```
+./Software/
+├── BSL_Program/
+├── CH340_Driver/
+├── Examples_Msp430G2553_LunchBox/
+└── Fritzing_Parts/
+```
+
+---
+
 ## Getting Started
 
 ### Requirements
