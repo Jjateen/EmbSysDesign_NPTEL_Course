@@ -16,6 +16,15 @@
                     }
                 }
             }
+        },
+        {
+            "name": "Exp02_LunchBox_HelloLED",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Exp02_LunchBox_HelloLED",
+                "resourceId": "/Exp02_LunchBox_HelloLED"
+            }
         }
     ]
 }
